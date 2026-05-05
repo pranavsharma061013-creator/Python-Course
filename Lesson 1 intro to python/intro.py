@@ -1,0 +1,14 @@
+print("1. wake up")
+print("2. have a glass of water")
+print("3. do hygine routine")
+print("4. have breakfast")
+print("5. go to school")
+print("6. come back home")
+print("7. have lunch")
+print("8. do homework")
+print("9. go to play with friends")
+print("10. study ")
+print("11. have dinner")
+print("12. sleep")
+
+
