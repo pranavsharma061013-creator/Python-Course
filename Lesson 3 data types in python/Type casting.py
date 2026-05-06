@@ -1,0 +1,12 @@
+Name = "Pranav"
+Age = 12
+Weight = 38.5
+Student = True
+print(Name , type(Name))
+print(Age , type(Age))
+print(Weight , type(Weight))
+print(Student , type(Student))
+Age = str(Age)
+print(Age , type(Age))
+Weight = int(Weight)
+print(Weight , type(Weight))
