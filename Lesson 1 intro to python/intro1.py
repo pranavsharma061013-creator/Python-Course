@@ -10,5 +10,3 @@ print("9. go to play with friends")
 print("10. study ")
 print("11. have dinner")
 print("12. sleep")
-
-

@@ -1,0 +1,6 @@
+print("hello")
+print("hello" , 10)
+print("hello\n")
+print(10)
+print("welcome to" , end=" ")
+print("codingal")
